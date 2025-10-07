@@ -144,8 +144,8 @@ const ChapterBasedBlock = () => {
           <p>
             Looking to add or remove challenges? Navigate to <br />
             <code>
-              freeCodeCamp/curriculum/challenges/english
-              {`/${params.superblock}/${params.block}/`}
+              freeCodeCamp/curriculum/challenges/english/blocks
+              {`/${params.block}/`}
             </code>
             <br />
             in your terminal and run the following commands:
